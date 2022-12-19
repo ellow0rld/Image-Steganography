@@ -6,4 +6,6 @@ main.py - here all the encoding and decoding of the ciphertext into the image ha
 **Note - I did this code in google colab, so some modules didn't work there, so I had to use a different modified version
 
 Output
+
+
 ![output 1](https://user-images.githubusercontent.com/116413038/208447700-1f279c4b-f380-4c3e-8eeb-080aeb0cb3c7.png)
